@@ -1,0 +1,106 @@
+Here is the combined list of metaheuristics with their total values:
+
+Here is the complete list, from most frequent to least frequent:
+
+1. Genetic Algorithm: 753
+2. Tabu Search: 498
+3. Simulated Annealing: 426
+4. Simple Optimizer: 233
+5. Ant Colony Optimization: 359
+6. Particle Swarm Optimization: 321
+7. Bat Intelligence: 179
+8. Differential Evolution: 217
+9. Memetic Algorithm: 130
+     10. Egyptian Vulture Optimization: 92
+11. Evolution Strategies: 92
+     12. Unconscious Search: 69
+13. Artificial Bee Colony: 68
+     14. RUNge Kutta Optimizer: 63
+     15. Cheetah Optimizer: 50
+16. Variable Neighborhood Descent Algorithm: 47
+17. Artificial Cooperative Search: 45
+18. Cuckoo Search: 43
+19. Bat Algorithm: 43
+20. Firefly Algorithm: 38
+21. Local Search: 39
+22. Scatter Search Algorithm: 22
+23. Brain Storm Optimization: 22
+24. Harmony Search: 21
+25. MS (Melody Search or Monkey Search): 21
+26. Teaching Learning Based Optimization: 19
+27. FOA (Fertilization, Fireworks, Forest, or Fruit Fly Optimization Algorithm): 23
+28. BSO (Bee Swarm Optimization, Backtracking Search Optimization, or Bioluminescent Swarm Optimization): 18
+29. Elephant Clan Optimization: 18
+30. Imperialist Competitive Algorithm: 18
+31. MOEA/D: 16
+32. Charged System Search or Chemical Solution Search: 15
+33. POPMUSIC: 13
+34. Intelligent Water Drop Algorithm: 13
+35. Dragonfly Algorithm: 13
+36. Bees Algorithm: 12
+37. Tree Seed Algorithm: 12
+38. Search Group Algorithm: 12
+39. Chemical Reaction Optimization: 11
+40. Evolution Strategy: 11
+41. Salp Swarm Algorithm: 11
+42. Gravitational Emulation Local Search: 10
+43. Grey Wolf Optimizer: 10
+44. Genetic Programming: 9
+45. Andean Condor Algorithm: 9
+46. Dialectic Search: 9
+47. Symbiosis Organism Search: 9
+48. Coronavirus Herd Immunity Optimizer: 9
+49. Lambda Algorithm or Lion Optimization Algorithm: 9
+50. Sine Cosine Algorithm: 9
+51. Butterfly Optimization Algorithm: 9
+52. Shuffled Frog Leaping Algorithm: 8
+53. Biogeography-Based Optimization: 8
+54. Harmony Element Algorithm: 8
+55. Monarch Butterfly Optimization or Migrating Birds Optimization: 8
+56. Differential Search Algorithm: 7
+57. Whale Optimization Algorithm: 7
+58. Bacterial Foraging Optimization Algorithm: 7
+59. Particle Collision Algorithm: 4
+60. Projectiles Optimization: 4
+61. Camel Algorithm: 4
+62. Red Deer Algorithm: 4
+63. Extremal Optimization: 4
+64. Bee Colony Optimization: 3
+65. Escaping Bird Search: 3
+66. Gravitational Search Algorithm: 3
+67. Gene Expression: 3
+68. Jaya Algorithm: 3
+69. League Championship Algorithm or Laying Chicken Algorithm: 3
+70. Multi-Verse Optimizer: 3
+71. Water Cycle Algorithm: 3
+72. Invasive Weed Optimization Algorithm: 3
+73. Bumble Bees Mating Optimization: 3
+74. Reptile Search Algorithm: 2
+75. Beluga Whale Optimization: 1
+76. Big Bang-Big Crunch: 1
+77. Ebola Optimization Search Algorithm: 1
+78. Artificial Electric Field Algorithm: 5
+79. Crow Search Algorithm or Circle Search Algorithm: 5
+80. Flock by Leader: 5
+81. Harris Hawks Optimizer: 5
+82. Heart Transfer Search: 5
+83. Interior Search Algorithm: 5
+84. Marine Predator Algorithm: 5
+85. Momentum Search Algorithm: 5
+86. OptBees: 5
+87. Viral Systems Optimization: 5
+88. Artificial Electric Field Algorithm: 5
+89. Crow Search Algorithm or Circle Search Algorithm: 5
+90. Flock by Leader: 5
+91. Harris Hawks Optimizer: 5
+92. Heart Transfer Search: 5
+93. Interior Search Algorithm: 5
+94. Marine Predator Algorithm: 5
+95. Momentum Search Algorithm: 5
+96. OptBees: 5
+97. Viral Systems Optimization: 5
+98. Reptile Search Algorithm: 2
+99. Beluga Whale Optimization: 1
+100. Big Bang-Big Crunch: 1
+101. Ebola Optimization Search Algorithm: 1
+
