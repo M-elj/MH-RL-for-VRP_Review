@@ -1,6 +1,6 @@
 MH-RL for VRP Review
 
-About This Repository# Combination_MH-RL_Review
+About This Repository: MH-RL-for-VRP_Review
 
 Welcome to the repository for our review on combining Metaheuristics (MH) and Reinforcement Learning (RL) to solve the Vehicle Routing Problem (VRP).
 
