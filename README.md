@@ -1,6 +1,4 @@
-MH-RL for VRP Review
-
-About This Repository: MH-RL-for-VRP_Review
+About This Repository: "MH-RL-for-VRP_Review"
 
 This repository contains the data and resources used in our comprehensive review of methods combining Metaheuristics (MH) and Reinforcement Learning (RL) to solve the Vehicle Routing Problem (VRP).
 The VRP is one of the most well-known and challenging logistics problems. It involves planning the best routes for a fleet of vehicles to deliver goods to customers while meeting various constraints like vehicle capacity. Over the years, researchers have tackled this problem using a variety of methods, including exact algorithms, heuristics, metaheuristics, and machine learning techniques.
