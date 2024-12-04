@@ -13,10 +13,10 @@ What’s Inside This repository includes:
 - Files included:
      - All_Articles.xlsx: A dataset containing all reviewed articles.
   -  Analysis.xlsx: Analytical results from the study.
-- Bibliographical_analysis-main.zip: Contains the code used for the bibliographical analysis conducted in the study.
-- MH+RL-Journals.png: Visualization showing journal distributions for hybrid MH+RL studies.
-- MH-Journals.png: Visualization of journal distributions for studies focusing on metaheuristics.
- - RL-Journals.png: Visualization of journal distributions for reinforcement learning studies.
- - Metaheuristics_Analysis_Results.txt: Detailed text-based output of the metaheuristics analysis.
+   - Bibliographical_analysis-main.zip: Contains the code used for the bibliographical analysis conducted in the study.
+   - MH+RL-Journals.png: Visualization showing journal distributions for hybrid MH+RL studies.
+   - MH-Journals.png: Visualization of journal distributions for studies focusing on metaheuristics.
+   - RL-Journals.png: Visualization of journal distributions for reinforcement learning studies.
+   - Metaheuristics_Analysis_Results.txt: Detailed text-based output of the metaheuristics analysis.
 Why This Matters:
 Our goal with this review is to provide a clear and thorough understanding of how metaheuristics and reinforcement learning can be combined to tackle the VRP. By identifying key challenges and opportunities, we hope to inspire further research in this exciting and growing field.
