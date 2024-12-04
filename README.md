@@ -12,8 +12,8 @@ What’s Inside This repository includes:
 - Insights into emerging trends, current challenges, and potential research directions.
 - Files included:
      - All_Articles.xlsx: A dataset containing all reviewed articles.
+     -  Bibliographical_analysis-main.zip: Contains the code used for the bibliographical analysis conducted in the study.
   -  Analysis.xlsx: Analytical results from the study.
-   - Bibliographical_analysis-main.zip: Contains the code used for the bibliographical analysis conducted in the study.
    - MH+RL-Journals.png: Visualization showing journal distributions for hybrid MH+RL studies.
    - MH-Journals.png: Visualization of journal distributions for studies focusing on metaheuristics.
    - RL-Journals.png: Visualization of journal distributions for reinforcement learning studies.
